@@ -1,0 +1,81 @@
+const data = [
+  {
+    id: "1",
+    username: "HannahBaebae",
+    timeAgo: "2 hours ago",
+    content: "Just had an amazing day at the beach! ",
+    imageUrl: "https://avatars.githubusercontent.com/u/75447701?v=4",
+  },
+  {
+    id: "2",
+    username: "HannahBaebae",
+    timeAgo: "1 day ago",
+    content: "Exploring the city streets. Such a beautiful day!",
+    imageUrl: "https://avatars.githubusercontent.com/u/75447701?v=4",
+  },
+  {
+    id: "3",
+    username: "HannahBaebae",
+    timeAgo: "3 hours ago",
+    content: "Trying out a new recipe. Cooking is so much fun!",
+    imageUrl: "https://avatars.githubusercontent.com/u/75447701?v=4",
+  },
+  {
+    id: "4",
+    username: "HannahBaebae",
+    timeAgo: "5 hours ago",
+    content: "Chilling at home with a good book. What a cozy day!",
+    imageUrl: "https://avatars.githubusercontent.com/u/75447701?v=4",
+  },
+  {
+    id: "5",
+    username: "HannahBaebae",
+    timeAgo: "1 week ago",
+    content: "Hiking in the mountains. Nature is breathtaking!",
+    imageUrl: "https://avatars.githubusercontent.com/u/75447701?v=4",
+  },
+  {
+    id: "6",
+    username: "HannahBaebae",
+    timeAgo: "4 hours ago",
+    content: "Attending a live concert. Music heals the soul!",
+    imageUrl: "https://avatars.githubusercontent.com/u/75447701?v=4",
+  },
+  {
+    id: "7",
+    username: "HannahBaebae",
+    timeAgo: "6 hours ago",
+    content: "Coding all night. Late-night productivity!",
+    imageUrl: "https://avatars.githubusercontent.com/u/75447701?v=4",
+  },
+  {
+    id: "8",
+    username: "HannahBaebae",
+    timeAgo: "1 day ago",
+    content: "Family picnic at the park. Great times together!",
+    imageUrl: "https://avatars.githubusercontent.com/u/75447701?v=4",
+  },
+  {
+    id: "9",
+    username: "HannahBaebae",
+    timeAgo: "3 days ago",
+    content: "Learning a new language. ¡Hola, amigos!",
+    imageUrl: "https://avatars.githubusercontent.com/u/75447701?v=4",
+  },
+  {
+    id: "10",
+    username: "HannahBaebae",
+    timeAgo: "2 hours ago",
+    content: "Painting my thoughts on canvas. Art therapy!",
+    imageUrl: "https://avatars.githubusercontent.com/u/75447701?v=4",
+  },
+  {
+    id: "11",
+    username: "HannahBaebae",
+    timeAgo: "1 day ago",
+    content: "Road trip to the countryside. Fresh air and open roads!",
+    imageUrl: "",
+  },
+];
+
+export default data;
